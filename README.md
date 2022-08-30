@@ -6,11 +6,9 @@ Author: Cleancoded
 
 URI: https://cleancoded.com
 
-This gem builds Rails applications that can be embedded in the Shopify Admin.
+This gem is used for importing Shopify Custom Page Speed Optimization App.
 
 ## Introduction
-
-This gem is used for importing Shopify Custom Page Speed Optimization App.
 
 ## Requirements
 
